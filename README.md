@@ -13,3 +13,4 @@ para emprezar con el examen el el apartado de la segunda serie en git lo que hic
 9. procedemos a crear nuestro html para el examen definido
 10. usamos git status para ver el estado de nuestro proyecto
 11. se añadio el camnio de color del html
+12. se agregaron cambios de los parrafos en html
