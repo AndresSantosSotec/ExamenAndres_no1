@@ -15,3 +15,6 @@ para emprezar con el examen el el apartado de la segunda serie en git lo que hic
 11. se añadio el camnio de color del html
 12. se agregaron cambios de los parrafos en html
 13. se hicireon cambios en hotfix para la ultma fase de la tarea en git
+
+https://github.com/AndresSantosSotec/ExamenAndres_no1.git
+https://github.com/AndresSantosSotec/ExamenAndres_no1.git
